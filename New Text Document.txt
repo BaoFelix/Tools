@@ -4,3 +4,8 @@ This is just a test
 #######################
 
 This is a branch test
+
+#######################
+
+This is B2 branch
+
