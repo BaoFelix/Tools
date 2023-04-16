@@ -2,3 +2,10 @@ This is just a test
 #######################
 ^_^
 #######################
+
+This is a branch test
+
+#######################
+
+This is B2 branch
+
